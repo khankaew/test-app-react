@@ -1,0 +1,25 @@
+body {
+  margin: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  text-align: left;
+  min-width: 200px;
+}
+
+.input select {
+  margin: 4px;
+  min-width: 100px;
+}
+
+.input input {
+  margin: 4px;
+}
+
+.input button {
+  margin: 4px;
+}
